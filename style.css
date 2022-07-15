@@ -1,0 +1,152 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.donate{
+
+    background-image:linear-gradient(to left,#0000001f, #000000b5), url(images/ramadan.jpg);
+    background-size: cover;
+    height: 80vh; 
+}
+.donate-text{
+     position:absolute;
+      margin: 150px 0 0 200px;
+      
+      
+}
+.donate-heading{
+
+      width: 400px;
+      font-size: 40px;
+      color: white;
+}
+.donate-paragraph{
+
+      width: 450px;
+      font-size: 20px;
+      color: white;
+}
+.donate-button button:hover{
+
+    background-color: rgba(128, 128, 128, 0.527);
+    
+}
+.donate-button button{
+
+     padding: 10px 20px;
+     background-color: tomato;
+     font-size: 20px;
+     border-style: none;
+     border-radius: 5px;
+}
+
+.zakat{
+
+    height: 80vh;
+    display: flex;
+    
+    
+}
+.zakat-description{
+
+    width: 50%;
+    padding: 0;
+    margin: 60px 50px 0 200px;
+}
+.zakat-heading{
+
+    font-size: 20px;
+    margin-top: 0;
+}
+.zakat-text{
+
+    font-size: 20px;
+    width: 400px;
+}
+.zakat-video{
+
+     width: 50%;
+     margin: 100px 200px 0 0;
+}
+
+.social-change-container{
+
+      display: flex;
+      height: 70vh;
+
+}
+
+.social-change-image{
+
+        width: 50%;
+        margin-left: 200px;
+        margin-top: 50px;
+}
+.social-change-image img{
+
+    width: 420px;
+    box-shadow: 8px 8px 40px gray;
+}
+.social-change-text{
+
+    width: 50%;
+    margin-right: 150px;
+    
+}
+.social-change-heading{
+
+      font-size: 40px;
+}
+.social-change-paragraph{
+
+      font-size: 18px;
+}
+.sent-donate-discription{
+
+    text-align: center;
+    margin-bottom: 30px;
+}
+.sent-donate-discription h1{
+
+ font-size: 40px;
+ margin: 0;
+}
+.sent-donate-discription p{
+
+  font-size: 20px;
+}
+.sent-donate-container{
+
+      height: 120vh;
+}
+
+.sent-donate-plan1{
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+.sent-donate-plan{
+
+     width: 500px;
+     height: 200px;
+     display: flex;
+     background-color: #3498db56;
+     margin-bottom: 30px;
+     color: #000000c2;
+     border-radius: 10px;
+      
+}
+.sent-donate-image img{
+
+       width: 70px;
+       margin: 40px 40px 0 20px;
+}
+.sent-donate-discription2{
+
+      margin-right: 30px;
+}
